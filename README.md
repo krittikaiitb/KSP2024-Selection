@@ -2,15 +2,15 @@
 
 Here is a link on how to use GitHub for those who do not know : [link](https://www.youtube.com/watch?v=xmK1Q5uzH4w&ab_channel=Meri%28Engel%29Kasprak-programmingvideos).
 
-The problem statement is given in Problem_Statement.ipynb (which you can view directly in the browser). 
+The problem statement is given in `Problem_Statement.ipynb` (which you can view directly in the browser). 
 
-The data sets include 3 files - galaxy.csv, gaia.csv and cepheids.csv.
+The data sets include 3 files - `galaxy.csv`, `gaia.csv` and `cepheids.csv`.
 The description of each data set has been mentioned in the problem statement. 
 
 ## Instructions
 * Note that you need to fill the form at < Insert link here > and submit the link to this repo for applying. The deadline for that is 11:59 PM on 6th May 2023.
 * To download the files, click on the green coloured code button and choose Download ZIP.
-* Submit the solution code as a Python notebook .ipynb, along with a write-up describing your approach in the same python notebook. Name the file as answers.ipynb before submitting.
+* Submit the solution code as a Python notebook `.ipynb`, along with a write-up describing your approach in the same python notebook. Name the file as `answers.ipynb` before submitting.
 * To submit the file click on the Add file button at the top and Upload files.
 * If you make any wrong uploads, just delete the file and re-upload. To delete a file, open the file, click on delete icon and commit changes.
 * Please join this Telegram group for updates and doubt clarifications (if any) on the problem statement : link.
